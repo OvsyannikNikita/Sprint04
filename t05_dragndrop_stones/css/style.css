@@ -1,0 +1,23 @@
+.block{
+    height: 75px;
+    width: 75px;
+    margin: 10px;
+}
+.one{
+    background-color: aqua;
+}
+.two{
+    background-color: purple;
+}
+.three{
+    background-color: yellow;
+}
+.four{
+    background-color: green;
+}
+.five{
+    background-color:gray;
+}
+.six{
+    background-color: brown;
+}
